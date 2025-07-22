@@ -14,7 +14,6 @@ This interactive Power BI dashboard presents sales insights from the Superstore 
 ## 🛠 Tools Used
 - Microsoft Power BI
 - Sample Superstore Dataset
-- Custom DAX Measures
 - Page design and slicer integration
 
 ## 📁 Files Included
